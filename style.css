@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+header{
+    background-color: #4a90e2;
+    padding: 10px;
+    font-family: "Poppins";
+    color: white;
+}
 nav{
     background-color: #3b74c5;
     text-align: center;
     padding: 1em 0;
+    font-family: "Poppins";
 }
 
 nav a{
@@ -21,7 +29,9 @@ section{
     padding: 1.5em;
     background-color: white ;
     border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.403);
+    font-family: "Poppins";
+    
 }
 
 section h2{
@@ -40,4 +50,5 @@ footer{
     padding: 1em ;
     margin-top: 3em;
     font-size: 0.9em;
+    font-family: "Poppins";
 }
